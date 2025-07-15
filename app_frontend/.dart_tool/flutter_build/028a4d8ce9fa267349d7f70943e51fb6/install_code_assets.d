@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/simple-notes-2dfcc4f7/app_frontend/.dart_tool/flutter_build/028a4d8ce9fa267349d7f70943e51fb6/native_assets.json: 
